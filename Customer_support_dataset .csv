@@ -1,0 +1,1001 @@
+ID,User_Query,Chatbot_Response,Category
+1,Can you assist me?,Have a great day!,General
+2,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+3,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+4,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+5,Can you assist me?,I’m here to help with any questions you have.,General
+6,Good morning!,Have a great day!,General
+7,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+8,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+9,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+10,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+11,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+12,How can I get a refund?,Refunds are processed within 5-7 business days.,Policy Info
+13,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+14,How can I change my email address?,Your account details have been successfully updated.,Account Help
+15,Thank you for your help!,Have a great day!,General
+16,Good morning!,I’m here to help with any questions you have.,General
+17,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+18,Good morning!,Have a great day!,General
+19,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+20,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+21,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+22,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+23,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+24,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+25,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+26,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+27,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+28,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+29,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+30,How can I get a refund?,Refunds are processed within 5-7 business days.,Policy Info
+31,Can you assist me?,I’m here to help with any questions you have.,General
+32,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+33,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+34,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+35,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+36,I forgot my password.,Your account details have been successfully updated.,Account Help
+37,How can I get a refund?,Refunds are processed within 5-7 business days.,Policy Info
+38,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+39,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+40,I want to delete my account.,Your account details have been successfully updated.,Account Help
+41,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+42,Good morning!,Have a great day!,General
+43,Thank you for your help!,Have a great day!,General
+44,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+45,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+46,Good morning!,Have a great day!,General
+47,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+48,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+49,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+50,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+51,How can I change my email address?,Your account details have been successfully updated.,Account Help
+52,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+53,Thank you for your help!,I’m here to help with any questions you have.,General
+54,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+55,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+56,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+57,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+58,How can I change my email address?,Your account details have been successfully updated.,Account Help
+59,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+60,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+61,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+62,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+63,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+64,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+65,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+66,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+67,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+68,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+69,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+70,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+71,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+72,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+73,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+74,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+75,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+76,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+77,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+78,Thank you for your help!,I’m here to help with any questions you have.,General
+79,What is your return policy?,Our warranty policy covers products for up to one year.,Policy Info
+80,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+81,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+82,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+83,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+84,Thank you for your help!,Have a great day!,General
+85,How can I change my email address?,Your account details have been successfully updated.,Account Help
+86,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+87,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+88,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+89,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+90,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+91,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+92,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+93,Good morning!,Have a great day!,General
+94,I want to delete my account.,Your account details have been successfully updated.,Account Help
+95,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+96,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+97,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+98,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+99,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+100,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+101,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+102,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+103,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+104,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+105,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+106,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+107,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+108,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+109,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+110,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+111,Can you assist me?,Have a great day!,General
+112,Thank you for your help!,Have a great day!,General
+113,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+114,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+115,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+116,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+117,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+118,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+119,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+120,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+121,Can you assist me?,Have a great day!,General
+122,I want to delete my account.,Your account details have been successfully updated.,Account Help
+123,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+124,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+125,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+126,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+127,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+128,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+129,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+130,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+131,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+132,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+133,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+134,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+135,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+136,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+137,What is your return policy?,Our warranty policy covers products for up to one year.,Policy Info
+138,Can you assist me?,I’m here to help with any questions you have.,General
+139,How can I change my email address?,Your account details have been successfully updated.,Account Help
+140,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+141,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+142,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+143,Can you assist me?,I’m here to help with any questions you have.,General
+144,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+145,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+146,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+147,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+148,Can you assist me?,I’m here to help with any questions you have.,General
+149,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+150,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+151,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+152,How can I change my email address?,Your account details have been successfully updated.,Account Help
+153,Thank you for your help!,Have a great day!,General
+154,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+155,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+156,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+157,Can you assist me?,I’m here to help with any questions you have.,General
+158,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+159,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+160,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+161,I want to delete my account.,Your account details have been successfully updated.,Account Help
+162,Thank you for your help!,I’m here to help with any questions you have.,General
+163,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+164,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+165,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+166,Thank you for your help!,I’m here to help with any questions you have.,General
+167,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+168,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+169,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+170,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+171,I forgot my password.,Your account details have been successfully updated.,Account Help
+172,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+173,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+174,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+175,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+176,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+177,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+178,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+179,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+180,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+181,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+182,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+183,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+184,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+185,I want to delete my account.,Your account details have been successfully updated.,Account Help
+186,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+187,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+188,Good morning!,Have a great day!,General
+189,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+190,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+191,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+192,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+193,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+194,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+195,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+196,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+197,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+198,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+199,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+200,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+201,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+202,What is your return policy?,Our warranty policy covers products for up to one year.,Policy Info
+203,Can you assist me?,I’m here to help with any questions you have.,General
+204,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+205,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+206,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+207,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+208,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+209,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+210,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+211,Good morning!,Have a great day!,General
+212,Thank you for your help!,Have a great day!,General
+213,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+214,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+215,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+216,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+217,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+218,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+219,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+220,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+221,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+222,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+223,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+224,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+225,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+226,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+227,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+228,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+229,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+230,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+231,How can I change my email address?,Your account details have been successfully updated.,Account Help
+232,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+233,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+234,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+235,I forgot my password.,Your account details have been successfully updated.,Account Help
+236,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+237,Good morning!,I’m here to help with any questions you have.,General
+238,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+239,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+240,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+241,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+242,I forgot my password.,Your account details have been successfully updated.,Account Help
+243,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+244,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+245,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+246,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+247,How can I change my email address?,Your account details have been successfully updated.,Account Help
+248,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+249,Can you assist me?,Have a great day!,General
+250,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+251,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+252,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+253,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+254,Thank you for your help!,Have a great day!,General
+255,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+256,I forgot my password.,Your account details have been successfully updated.,Account Help
+257,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+258,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+259,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+260,What is your return policy?,Our warranty policy covers products for up to one year.,Policy Info
+261,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+262,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+263,Good morning!,I’m here to help with any questions you have.,General
+264,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+265,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+266,Can you assist me?,I’m here to help with any questions you have.,General
+267,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+268,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+269,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+270,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+271,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+272,Good morning!,I’m here to help with any questions you have.,General
+273,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+274,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+275,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+276,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+277,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+278,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+279,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+280,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+281,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+282,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+283,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+284,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+285,How can I change my email address?,Your account details have been successfully updated.,Account Help
+286,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+287,I forgot my password.,Your account details have been successfully updated.,Account Help
+288,Good morning!,Have a great day!,General
+289,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+290,I want to delete my account.,Your account details have been successfully updated.,Account Help
+291,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+292,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+293,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+294,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+295,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+296,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+297,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+298,How can I change my email address?,Your account details have been successfully updated.,Account Help
+299,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+300,I want to delete my account.,Your account details have been successfully updated.,Account Help
+301,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+302,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+303,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+304,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+305,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+306,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+307,I want to delete my account.,Your account details have been successfully updated.,Account Help
+308,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+309,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+310,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+311,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+312,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+313,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+314,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+315,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+316,Thank you for your help!,Have a great day!,General
+317,Good morning!,Have a great day!,General
+318,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+319,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+320,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+321,I want to delete my account.,Your account details have been successfully updated.,Account Help
+322,Thank you for your help!,I’m here to help with any questions you have.,General
+323,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+324,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+325,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+326,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+327,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+328,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+329,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+330,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+331,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+332,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+333,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+334,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+335,Thank you for your help!,Have a great day!,General
+336,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+337,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+338,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+339,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+340,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+341,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+342,I forgot my password.,Your account details have been successfully updated.,Account Help
+343,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+344,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+345,Thank you for your help!,I’m here to help with any questions you have.,General
+346,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+347,Good morning!,Have a great day!,General
+348,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+349,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+350,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+351,I forgot my password.,Your account details have been successfully updated.,Account Help
+352,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+353,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+354,Thank you for your help!,I’m here to help with any questions you have.,General
+355,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+356,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+357,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+358,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+359,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+360,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+361,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+362,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+363,Thank you for your help!,I’m here to help with any questions you have.,General
+364,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+365,Thank you for your help!,Have a great day!,General
+366,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+367,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+368,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+369,I want to delete my account.,Your account details have been successfully updated.,Account Help
+370,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+371,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+372,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+373,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+374,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+375,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+376,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+377,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+378,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+379,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+380,Can you assist me?,I’m here to help with any questions you have.,General
+381,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+382,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+383,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+384,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+385,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+386,I want to delete my account.,Your account details have been successfully updated.,Account Help
+387,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+388,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+389,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+390,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+391,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+392,Good morning!,Have a great day!,General
+393,Can you assist me?,I’m here to help with any questions you have.,General
+394,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+395,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+396,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+397,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+398,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+399,I forgot my password.,Your account details have been successfully updated.,Account Help
+400,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+401,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+402,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+403,What is your return policy?,Our warranty policy covers products for up to one year.,Policy Info
+404,Can you assist me?,I’m here to help with any questions you have.,General
+405,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+406,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+407,Good morning!,Have a great day!,General
+408,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+409,Good morning!,Have a great day!,General
+410,Thank you for your help!,Have a great day!,General
+411,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+412,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+413,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+414,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+415,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+416,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+417,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+418,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+419,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+420,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+421,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+422,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+423,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+424,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+425,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+426,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+427,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+428,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+429,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+430,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+431,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+432,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+433,Thank you for your help!,I’m here to help with any questions you have.,General
+434,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+435,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+436,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+437,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+438,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+439,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+440,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+441,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+442,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+443,Can you assist me?,I’m here to help with any questions you have.,General
+444,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+445,Thank you for your help!,I’m here to help with any questions you have.,General
+446,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+447,How can I change my email address?,Your account details have been successfully updated.,Account Help
+448,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+449,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+450,Good morning!,I’m here to help with any questions you have.,General
+451,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+452,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+453,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+454,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+455,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+456,Good morning!,Have a great day!,General
+457,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+458,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+459,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+460,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+461,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+462,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+463,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+464,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+465,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+466,Good morning!,I’m here to help with any questions you have.,General
+467,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+468,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+469,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+470,Good morning!,I’m here to help with any questions you have.,General
+471,How can I get a refund?,Refunds are processed within 5-7 business days.,Policy Info
+472,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+473,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+474,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+475,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+476,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+477,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+478,I want to delete my account.,Your account details have been successfully updated.,Account Help
+479,Good morning!,Have a great day!,General
+480,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+481,Good morning!,Have a great day!,General
+482,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+483,Can you assist me?,Have a great day!,General
+484,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+485,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+486,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+487,I forgot my password.,Your account details have been successfully updated.,Account Help
+488,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+489,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+490,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+491,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+492,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+493,Can you assist me?,Have a great day!,General
+494,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+495,Thank you for your help!,I’m here to help with any questions you have.,General
+496,I forgot my password.,Your account details have been successfully updated.,Account Help
+497,Can you assist me?,Have a great day!,General
+498,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+499,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+500,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+501,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+502,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+503,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+504,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+505,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+506,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+507,How can I change my email address?,Your account details have been successfully updated.,Account Help
+508,How can I change my email address?,Your account details have been successfully updated.,Account Help
+509,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+510,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+511,Good morning!,Have a great day!,General
+512,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+513,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+514,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+515,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+516,Can you assist me?,Have a great day!,General
+517,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+518,I forgot my password.,Your account details have been successfully updated.,Account Help
+519,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+520,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+521,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+522,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+523,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+524,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+525,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+526,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+527,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+528,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+529,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+530,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+531,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+532,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+533,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+534,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+535,Good morning!,I’m here to help with any questions you have.,General
+536,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+537,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+538,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+539,How can I change my email address?,Your account details have been successfully updated.,Account Help
+540,Good morning!,I’m here to help with any questions you have.,General
+541,What is your return policy?,Our warranty policy covers products for up to one year.,Policy Info
+542,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+543,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+544,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+545,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+546,Can you assist me?,Have a great day!,General
+547,Good morning!,I’m here to help with any questions you have.,General
+548,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+549,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+550,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+551,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+552,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+553,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+554,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+555,How can I get a refund?,Refunds are processed within 5-7 business days.,Policy Info
+556,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+557,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+558,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+559,How can I get a refund?,Refunds are processed within 5-7 business days.,Policy Info
+560,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+561,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+562,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+563,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+564,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+565,Thank you for your help!,I’m here to help with any questions you have.,General
+566,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+567,How can I change my email address?,Your account details have been successfully updated.,Account Help
+568,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+569,How can I change my email address?,Your account details have been successfully updated.,Account Help
+570,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+571,Good morning!,Have a great day!,General
+572,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+573,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+574,I want to delete my account.,Your account details have been successfully updated.,Account Help
+575,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+576,I want to delete my account.,Your account details have been successfully updated.,Account Help
+577,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+578,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+579,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+580,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+581,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+582,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+583,I want to delete my account.,Your account details have been successfully updated.,Account Help
+584,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+585,Can you assist me?,Have a great day!,General
+586,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+587,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+588,I want to delete my account.,Your account details have been successfully updated.,Account Help
+589,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+590,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+591,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+592,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+593,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+594,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+595,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+596,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+597,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+598,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+599,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+600,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+601,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+602,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+603,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+604,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+605,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+606,I want to delete my account.,Your account details have been successfully updated.,Account Help
+607,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+608,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+609,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+610,How can I get a refund?,Refunds are processed within 5-7 business days.,Policy Info
+611,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+612,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+613,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+614,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+615,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+616,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+617,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+618,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+619,I want to delete my account.,Your account details have been successfully updated.,Account Help
+620,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+621,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+622,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+623,Thank you for your help!,Have a great day!,General
+624,Thank you for your help!,I’m here to help with any questions you have.,General
+625,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+626,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+627,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+628,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+629,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+630,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+631,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+632,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+633,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+634,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+635,How can I change my email address?,Your account details have been successfully updated.,Account Help
+636,I want to delete my account.,Your account details have been successfully updated.,Account Help
+637,Thank you for your help!,Have a great day!,General
+638,I forgot my password.,Your account details have been successfully updated.,Account Help
+639,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+640,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+641,Good morning!,I’m here to help with any questions you have.,General
+642,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+643,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+644,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+645,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+646,I want to delete my account.,Your account details have been successfully updated.,Account Help
+647,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+648,Good morning!,Have a great day!,General
+649,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+650,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+651,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+652,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+653,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+654,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+655,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+656,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+657,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+658,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+659,I want to delete my account.,Your account details have been successfully updated.,Account Help
+660,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+661,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+662,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+663,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+664,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+665,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+666,I want to delete my account.,Your account details have been successfully updated.,Account Help
+667,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+668,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+669,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+670,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+671,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+672,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+673,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+674,What is your return policy?,Our warranty policy covers products for up to one year.,Policy Info
+675,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+676,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+677,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+678,Can you assist me?,I’m here to help with any questions you have.,General
+679,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+680,I forgot my password.,Your account details have been successfully updated.,Account Help
+681,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+682,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+683,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+684,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+685,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+686,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+687,How can I change my email address?,Your account details have been successfully updated.,Account Help
+688,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+689,What is your return policy?,Our warranty policy covers products for up to one year.,Policy Info
+690,What is your return policy?,Our warranty policy covers products for up to one year.,Policy Info
+691,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+692,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+693,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+694,Can you assist me?,I’m here to help with any questions you have.,General
+695,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+696,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+697,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+698,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+699,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+700,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+701,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+702,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+703,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+704,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+705,I forgot my password.,Your account details have been successfully updated.,Account Help
+706,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+707,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+708,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+709,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+710,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+711,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+712,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+713,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+714,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+715,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+716,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+717,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+718,Good morning!,Have a great day!,General
+719,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+720,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+721,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+722,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+723,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+724,Thank you for your help!,Have a great day!,General
+725,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+726,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+727,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+728,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+729,How can I get a refund?,Refunds are processed within 5-7 business days.,Policy Info
+730,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+731,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+732,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+733,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+734,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+735,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+736,How can I get a refund?,Refunds are processed within 5-7 business days.,Policy Info
+737,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+738,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+739,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+740,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+741,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+742,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+743,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+744,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+745,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+746,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+747,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+748,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+749,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+750,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+751,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+752,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+753,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+754,I want to delete my account.,Your account details have been successfully updated.,Account Help
+755,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+756,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+757,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+758,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+759,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+760,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+761,What is your return policy?,Our warranty policy covers products for up to one year.,Policy Info
+762,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+763,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+764,Good morning!,Have a great day!,General
+765,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+766,Good morning!,I’m here to help with any questions you have.,General
+767,Can you assist me?,I’m here to help with any questions you have.,General
+768,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+769,Good morning!,Have a great day!,General
+770,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+771,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+772,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+773,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+774,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+775,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+776,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+777,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+778,I want to delete my account.,Your account details have been successfully updated.,Account Help
+779,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+780,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+781,I want to delete my account.,Your account details have been successfully updated.,Account Help
+782,How can I change my email address?,Your account details have been successfully updated.,Account Help
+783,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+784,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+785,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+786,Can you assist me?,I’m here to help with any questions you have.,General
+787,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+788,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+789,I want to delete my account.,Your account details have been successfully updated.,Account Help
+790,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+791,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+792,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+793,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+794,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+795,What is your return policy?,You can return products within 30 days of purchase.,Policy Info
+796,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+797,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+798,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+799,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+800,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+801,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+802,I want to delete my account.,Your account details have been successfully updated.,Account Help
+803,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+804,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+805,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+806,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+807,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+808,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+809,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+810,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+811,I want to delete my account.,Your account details have been successfully updated.,Account Help
+812,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+813,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+814,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+815,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+816,Good morning!,Have a great day!,General
+817,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+818,Can you assist me?,Have a great day!,General
+819,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+820,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+821,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+822,Good morning!,I’m here to help with any questions you have.,General
+823,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+824,What is your return policy?,Our warranty policy covers products for up to one year.,Policy Info
+825,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+826,Can you check the status of my order?,Your order has been confirmed and is being processed.,Order Support
+827,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+828,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+829,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+830,How can I get a refund?,Refunds are processed within 5-7 business days.,Policy Info
+831,How can I change my email address?,Your account details have been successfully updated.,Account Help
+832,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+833,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+834,Good morning!,Have a great day!,General
+835,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+836,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+837,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+838,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+839,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+840,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+841,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+842,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+843,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+844,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+845,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+846,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+847,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+848,I forgot my password.,Your account details have been successfully updated.,Account Help
+849,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+850,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+851,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+852,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+853,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+854,I forgot my password.,Your account details have been successfully updated.,Account Help
+855,I forgot my password.,Your account details have been successfully updated.,Account Help
+856,What is your return policy?,Our warranty policy covers products for up to one year.,Policy Info
+857,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+858,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+859,Thank you for your help!,I’m here to help with any questions you have.,General
+860,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+861,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+862,Thank you for your help!,I’m here to help with any questions you have.,General
+863,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+864,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+865,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+866,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+867,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+868,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+869,Thank you for your help!,Have a great day!,General
+870,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+871,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+872,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+873,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+874,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+875,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+876,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+877,Where is my order?,We’re investigating the delay and will update you shortly.,Delivery Issue
+878,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+879,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+880,Can you assist me?,I’m here to help with any questions you have.,General
+881,Thank you for your help!,I’m here to help with any questions you have.,General
+882,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+883,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+884,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+885,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+886,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+887,I want to delete my account.,Your account details have been successfully updated.,Account Help
+888,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+889,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+890,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+891,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+892,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+893,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+894,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+895,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+896,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+897,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+898,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+899,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+900,I forgot my password.,Your account details have been successfully updated.,Account Help
+901,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+902,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+903,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+904,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+905,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+906,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+907,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+908,Thank you for your help!,Have a great day!,General
+909,Good morning!,Have a great day!,General
+910,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+911,I want to delete my account.,Please visit the account settings to manage your preferences.,Account Help
+912,How can I change my email address?,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+913,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+914,Thank you for your help!,Have a great day!,General
+915,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+916,Can you assist me?,I’m here to help with any questions you have.,General
+917,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+918,How can I change my email address?,Your account details have been successfully updated.,Account Help
+919,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+920,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+921,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+922,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+923,Thank you for your help!,I’m here to help with any questions you have.,General
+924,What is your return policy?,Our warranty policy covers products for up to one year.,Policy Info
+925,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+926,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+927,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+928,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+929,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+930,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+931,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+932,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+933,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+934,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+935,I forgot my password.,Please visit the account settings to manage your preferences.,Account Help
+936,The delivery is late.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+937,How can I change my email address?,Your account details have been successfully updated.,Account Help
+938,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+939,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+940,What is your return policy?,Our warranty policy covers products for up to one year.,Policy Info
+941,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+942,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+943,Good morning!,I’m here to help with any questions you have.,General
+944,Can you assist me?,You’re welcome! Is there anything else I can assist you with?,General
+945,I forgot my password.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+946,Good morning!,I’m here to help with any questions you have.,General
+947,Thank you for your help!,You’re welcome! Is there anything else I can assist you with?,General
+948,Good morning!,I’m here to help with any questions you have.,General
+949,I forgot my password.,Your account details have been successfully updated.,Account Help
+950,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+951,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+952,How long is the warranty period?,Our warranty policy covers products for up to one year.,Policy Info
+953,The delivery is late.,We’re investigating the delay and will update you shortly.,Delivery Issue
+954,Good morning!,I’m here to help with any questions you have.,General
+955,How can I change my email address?,Your account details have been successfully updated.,Account Help
+956,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+957,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+958,How long is the warranty period?,You can return products within 30 days of purchase.,Policy Info
+959,Can you assist me?,Have a great day!,General
+960,My package hasn’t arrived yet.,We’re investigating the delay and will update you shortly.,Delivery Issue
+961,I forgot my password.,Your account details have been successfully updated.,Account Help
+962,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+963,"Hi, I need help with my order.",Sure! Could you please provide your order number?,Order Support
+964,How can I get a refund?,Our warranty policy covers products for up to one year.,Policy Info
+965,What is your return policy?,Refunds are processed within 5-7 business days.,Policy Info
+966,I want to cancel my recent order.,Sure! Could you please provide your order number?,Order Support
+967,Can you assist me?,Have a great day!,General
+968,How can I get a refund?,You can return products within 30 days of purchase.,Policy Info
+969,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+970,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+971,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+972,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+973,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+974,My package hasn’t arrived yet.,Your package is out for delivery and should arrive today.,Delivery Issue
+975,Good morning!,You’re welcome! Is there anything else I can assist you with?,General
+976,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+977,I want to delete my account.,"Yes, you can reset your password using the ""Forgot Password"" link.",Account Help
+978,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+979,"Hi, I need help with my order.",I have updated your order details as requested.,Order Support
+980,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+981,Where is my order?,Your package is out for delivery and should arrive today.,Delivery Issue
+982,"Hi, I need help with my order.",Your order has been confirmed and is being processed.,Order Support
+983,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+984,Can you check the status of my order?,Sure! Could you please provide your order number?,Order Support
+985,Can you check the status of my order?,I have updated your order details as requested.,Order Support
+986,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+987,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+988,The delivery is late.,Your package is out for delivery and should arrive today.,Delivery Issue
+989,I want to cancel my recent order.,Your order has been confirmed and is being processed.,Order Support
+990,My package hasn’t arrived yet.,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+991,Good morning!,Have a great day!,General
+992,How can I get a refund?,Refunds are processed within 5-7 business days.,Policy Info
+993,How can I change my email address?,Please visit the account settings to manage your preferences.,Account Help
+994,Thank you for your help!,Have a great day!,General
+995,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+996,I want to delete my account.,Your account details have been successfully updated.,Account Help
+997,How long is the warranty period?,Refunds are processed within 5-7 business days.,Policy Info
+998,I want to cancel my recent order.,I have updated your order details as requested.,Order Support
+999,Where is my order?,I’m sorry to hear that. Could you share your tracking number?,Delivery Issue
+1000,Can you assist me?,I’m here to help with any questions you have.,General
